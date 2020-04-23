@@ -46,7 +46,7 @@ options.addArguments("--homedir=/tmp");
 options.addArguments("--disk-cache-dir=/tmp/cache-dir");
 ```
 
-### How ro run 
+### How to run 
 You can test lambda function working or not by configuring test event
 And Hit Test button 
 
